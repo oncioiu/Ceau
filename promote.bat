@@ -1,0 +1,1 @@
+copy C:\batfile\test\*.* C:\batfile\dev
